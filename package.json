@@ -82,7 +82,7 @@
     "remark-math": "^5.1.1",
     "remark-parse": "^6.0.0",
     "sass": "^1.32.12",
-    "sharp": "0.33.1",
+    "sharp": "0.33.2",
     "simplex-noise": "^3.0.1",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
@@ -90,7 +90,7 @@
     "three": "^0.150.1",
     "typescript": "^4.4.2",
     "url": "^0.11.0",
-    "webpack": "^5.2.0"
+    "webpack": "^5.94.0"
   },
   "devDependencies": {
     "@types/jsonwebtoken": "^8.5.5",
